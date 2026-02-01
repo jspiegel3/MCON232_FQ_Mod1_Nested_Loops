@@ -12,7 +12,7 @@ Please open and complete the notebook at the link below:
 
 ### Notes
 - This homework reviews **strings, 1D lists, loops, and file I/O**
-- It is designed to be worked **top to bottom**
+- It is designed to be worked **top to bottom** if you skip questions in colabs it will throw an error if a variable is not loaded into memory before use
 - If you are using **Google Colab**, remember to **run the file-writing cell first** before reading the file
 
 
