@@ -8,7 +8,7 @@
 Please open and complete the notebook at the link below:
 
 🔗 **Class 1 Strings Homework (Colab Notebook)**  
-https://github.com/jspiegel3/MCON232_FQ_Mod1_Nested_Loops/blob/main/MCON232_FQ_Homework_1_Lists_Strings_FileIO.ipynb
+[![Please click for homework](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/jspiegel3/MCON232_FQ_Mod1_Nested_Loops/blob/main/MCON232_FQ_Homework_1_Lists_Strings_FileIO.ipynb
 
 ### Notes
 - This homework reviews **strings, 1D lists, loops, and file I/O**
